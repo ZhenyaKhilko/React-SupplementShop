@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/React-SupplementShop/static/css/main.42eacb61.css",
+    "main.js": "/React-SupplementShop/static/js/main.f0b03d65.js",
+    "Cart.js": "/React-SupplementShop/static/js/Cart.91d50b65.chunk.js",
+    "FullSupplement.js": "/React-SupplementShop/static/js/FullSupplement.f9ec1e8e.chunk.js",
+    "static/media/empty-cart.png": "/React-SupplementShop/static/media/empty-cart.db905d1f4b063162f25b.png",
+    "static/media/logo1.png": "/React-SupplementShop/static/media/logo1.318e4e519fe268753493.png",
+    "index.html": "/React-SupplementShop/index.html",
+    "main.42eacb61.css.map": "/React-SupplementShop/static/css/main.42eacb61.css.map",
+    "main.f0b03d65.js.map": "/React-SupplementShop/static/js/main.f0b03d65.js.map",
+    "Cart.91d50b65.chunk.js.map": "/React-SupplementShop/static/js/Cart.91d50b65.chunk.js.map",
+    "FullSupplement.f9ec1e8e.chunk.js.map": "/React-SupplementShop/static/js/FullSupplement.f9ec1e8e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42eacb61.css",
+    "static/js/main.f0b03d65.js"
+  ]
+}
