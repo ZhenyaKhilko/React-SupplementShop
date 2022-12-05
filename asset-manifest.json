@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/React-SupplementShop/static/css/main.42eacb61.css",
-    "main.js": "/React-SupplementShop/static/js/main.70b0bece.js",
-    "Cart.js": "/React-SupplementShop/static/js/Cart.45621abb.chunk.js",
-    "FullSupplement.js": "/React-SupplementShop/static/js/FullSupplement.f9ec1e8e.chunk.js",
+    "main.js": "/React-SupplementShop/static/js/main.9b965a32.js",
+    "Cart.js": "/React-SupplementShop/static/js/Cart.af70c0cc.chunk.js",
+    "FullSupplement.js": "/React-SupplementShop/static/js/FullSupplement.f642f116.chunk.js",
     "static/media/empty-cart.png": "/React-SupplementShop/static/media/empty-cart.db905d1f4b063162f25b.png",
     "static/media/logo1.png": "/React-SupplementShop/static/media/logo1.318e4e519fe268753493.png",
     "index.html": "/React-SupplementShop/index.html",
     "main.42eacb61.css.map": "/React-SupplementShop/static/css/main.42eacb61.css.map",
-    "main.70b0bece.js.map": "/React-SupplementShop/static/js/main.70b0bece.js.map",
-    "Cart.45621abb.chunk.js.map": "/React-SupplementShop/static/js/Cart.45621abb.chunk.js.map",
-    "FullSupplement.f9ec1e8e.chunk.js.map": "/React-SupplementShop/static/js/FullSupplement.f9ec1e8e.chunk.js.map"
+    "main.9b965a32.js.map": "/React-SupplementShop/static/js/main.9b965a32.js.map",
+    "Cart.af70c0cc.chunk.js.map": "/React-SupplementShop/static/js/Cart.af70c0cc.chunk.js.map",
+    "FullSupplement.f642f116.chunk.js.map": "/React-SupplementShop/static/js/FullSupplement.f642f116.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.42eacb61.css",
-    "static/js/main.70b0bece.js"
+    "static/js/main.9b965a32.js"
   ]
 }
